@@ -1,0 +1,10 @@
+<resources>
+    <color name="colorPrimary">#053CE0</color>
+    <color name="colorPrimaryDark">#122FEB</color>
+    <color name="colorAccent">#1cafea</color>
+    <color name="bglogin">#1cafea</color>
+    <color name="putih">#ffff</color>
+    <color name="abu">#939398</color>
+    <color name="hitam">#000</color>
+
+</resources>
